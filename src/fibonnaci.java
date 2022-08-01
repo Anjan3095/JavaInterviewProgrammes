@@ -2,8 +2,13 @@
 public class fibonnaci {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		/*
+		 * This is the program we have written to find
+		 * the fibonacci series.
+		 * 
+		 * 
+		 */
 int a=0;
 int b=1;
 int sum=0;
